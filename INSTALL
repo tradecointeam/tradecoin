@@ -1,0 +1,9 @@
+Building Tradecoin
+
+See doc/readme-qt.rst for instructions on building Tradecoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Tradecoin.
+
+See doc/build-*.txt for instructions on building tradecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Tradecoin.
