@@ -1,25 +1,20 @@
 Tradecoin integration/staging tree
 ================================
 
-http://www.tradecoin.org
+http://www.tradecoin.team
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Tradecoin Developers
+Copyright (c) 2017-2018 Tradecoin Developers
 
 What is Tradecoin?
 ----------------
 
 Tradecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
-
-For more information, as well as an immediately useable, binary version of
-the Tradecoin client sofware, see http://www.tradecoin.org.
+ - 60 second block targets
+ - halves in 900k blocks
+ - 25 million total coins
+ - starts at 25 coins per block
+ - 1 block to retarget difficulty
 
 License
 -------
@@ -45,8 +40,8 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/tradecoin-project/tradecoin/tags) are created
-regularly to indicate new official, stable release versions of Tradecoin.
+completely stable. [Tags](https://github.com/tradecointeam/tradecoin/tags) are created
+to indicate new official, stable release versions of Tradecoin.
 
 Testing
 -------
