@@ -4,7 +4,7 @@ Tradecoin integration/staging tree
 http://www.tradecoin.team
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2017-2018 Tradecoin Developers
+Copyright (c) 2017-2019 Tradecoin Developers
 
 What is Tradecoin?
 ----------------
